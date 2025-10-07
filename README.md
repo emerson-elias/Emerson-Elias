@@ -5,7 +5,7 @@
 <div>
   <img align="right" src="/.github/workflows/assets/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
-    <p>🖥️ Analista de Suporte & Desenvolvedor Web - React.js | JavaScript | Gsap | Node.js | Next.js</p>
+    <p>🖥️ Desenvolvedor Web - React.js | JavaScript | Gsap | Node.js | Next.js</p>
     <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento </p>
     <p>📈 Projetos em desenvolvimento </p>
