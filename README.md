@@ -7,7 +7,7 @@
   <div>
     <p>🖥️ Desenvolvedor Web - React.js | Vue.js | JavaScript | Gsap | Node.js | Next.js</p>
     <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
-    <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento </p>
+    <p>📌 Sou um grande amante da tecnologia e estou sempre buscando me desenvolver profissionalmente </p>
     <p>📈 Projeto principal - Recanto Belle Vue </p>
   </div>
     <br>
