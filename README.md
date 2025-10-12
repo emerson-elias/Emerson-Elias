@@ -5,10 +5,10 @@
 <div>
   <img align="right" src="/.github/workflows/assets/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
-    <p>🖥️ Desenvolvedor Web - React.js | JavaScript | Gsap | Node.js | Next.js</p>
+    <p>🖥️ Desenvolvedor Web - React.js | Vue.js | JavaScript | Gsap | Node.js | Next.js</p>
     <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
     <p>📌 Sou um grande amante da tecnologia e desde cedo descobri minha paixão pelo desenvolvimento </p>
-    <p>📈 Projetos em desenvolvimento </p>
+    <p>📈 Projeto principal - Recanto Belle Vue </p>
   </div>
     <br>
 </div>
@@ -28,6 +28,7 @@
     <img align="center" alt="Emerson-Elias-CSS" height="40" width="50"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Emerson-Elias-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
     <img align="center" alt="Emerson-Elias-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Emerson-Elias-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" ">
     <img align="center" alt="Emerson-Elias-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img align="center" alt="Emerson-Elias-boostrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
     <img align="center" alt="Emerson-Elias-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
