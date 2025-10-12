@@ -6,7 +6,7 @@
   <img align="right" src="/.github/workflows/assets/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
   <div>
     <p>🖥️ Desenvolvedor Web - React.js | Vue.js | JavaScript | Gsap | Node.js | Next.js</p>
-    <p>🏢 Analista de Suporte - Líder Comércio e Indústria </p>
+    <p>🏢 Analista de Suporte - Com mais de 3 anos de experiência </p>
     <p>📌 Sou um grande amante da tecnologia e estou sempre buscando me desenvolver profissionalmente </p>
     <p>📈 Projeto principal - Recanto Belle Vue </p>
   </div>
