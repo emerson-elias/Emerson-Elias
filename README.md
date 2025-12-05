@@ -20,6 +20,7 @@
         <p>📈 Projeto principal - Recanto Belle Vue</p>
     </div>
     <br />
+</div>
     <div>
         <a href="https://www.linkedin.com/in/emerson-elias-9b2894228/" target="_blank">
             <img
@@ -46,7 +47,6 @@
             />
         </a>
     </div>
-</div>
 
 <h2 style="border: none">
     Front-end Developer
@@ -71,17 +71,32 @@
 </div>
 
  <!-- Github Activities -->
+
+
+ <div>
+
  ## 📈 Github Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=emerson-elias&theme=nord&border_radius=6&locale=pt_BR)](https://git.io/streak-stats)
-
-
+ 
 <div>
-    <img src="https://streak-stats.demolab.com?user=emerson-elias&theme=nord&border_radius=6&locale=pt_BR" alt="GitHub Streak" />
-    <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=emerson-elias&bg_color=26272d&color=ffffff&line=75e8f8&point=55548c&area=true&hide_border=false&radius=16&height=400"
-    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emerson-elias&theme=github_dark"
+        width="99.5%"
+        />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emerson-elias&theme=github_dark"
+         width="49.5%"
+        />
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emerson-elias&theme=github_dark"
+           width="49.5%"
+         />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emerson-elias&theme=github_dark"
+          width="49.5%"
+        />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emerson-elias&theme=github_dark"
+          width="49.5%"
+        />
 </div>
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph-dark.svg">
