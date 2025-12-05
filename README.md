@@ -2,6 +2,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Visitante+👋+!;+Eu+sou+Emerson+Elias+!;Seja+Bem+Vindo(a)+😊!;"/>
 </h1>
 
+
+<div>
+    <img 
+      src="https://stats.hyo.dev/api/github-stats-advanced?login=emerson-elias" 
+      width="430"
+    />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=emerson-elias&bg_color=26272d&color=ffffff&line=75e8f8&point=55548c&area=true&hide_border=false&radius=16&height=520" 
+      width="575"
+    />
+</div>
+
 <div>
   <img align="right" src="/.github/workflows/assets/codar.gif" alt="Hora de codar!" style="height: 200px;">
   <div>
@@ -13,99 +25,192 @@
     <br>
 </div>
 
-#
-
-## ⭐ GitHub Stats
-
-[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm)](https://github.com/evirunurm/github-stats) [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm&peng=false)](https://github.com/evirunurm/github-stats)
-  
-
-<a href="https://github.com/evirunurm/github-stats">
-  <img 
-    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm" 
-    width="400"
-  />
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=emerson-elias&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
 
 
+<h1 align="center" style="border: none">
+    <img
+        src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+        width="50px"
+        height="50px"
+    />
+  Front-end Developer
+</h1>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
-<h3 align="center">Web Development</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/evirunurm/github-stats">
+    <img 
+      src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm&peng=false" 
+      width="400"
+      height="400"
+      style="object-fit: contain;"
+    />
+  </a>
+  <a href="https://github.com/evirunurm/github-stats">
+    <img 
+      src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm" 
+      width="400"
+      height="400"
+      style="object-fit: contain;"
+    />
+  </a>
 </div>
 
-## 🚀 Minhas Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,vue,js,ts,java,figma,vite)](https://skillicons.dev)
+<h1 align="center" style="border: none">
+    <img
+        src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+        width="50px"
+        height="50px"
+    />
+  Front-end Developer
+</h1>
+
+<div align="center">
+    <table
+        style="
+            color: white;
+            border: none;
+            border-radius: 15px;
+            overflow: hidden;
+        "
+    >
+        <thead>
+            <tr>
+                <th colspan="13" align="center" style="color: white">Tecnologias e Ferramentas</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none">
+                    <img
+                        src="https://skillicons.dev/icons?i=html"
+                        width="50"
+                        height="50"
+                        alt="Next.js"
+                    />
+                    <br />HTML
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                         src="https://skillicons.dev/icons?i=css"
+                        width="50"
+                        height="50"
+                        alt="CSS"
+                    />
+                    <br />CSS
+                </td>
+                 <td align="center" style="border: none">
+                    <img
+                      src="https://techstack-generator.vercel.app/sass-icon.svg"
+                        width="50"
+                        height="50"
+                        alt="CSS"
+                    />
+                    <br />SCSS
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                        src="https://techstack-generator.vercel.app/react-icon.svg"
+                        alt="React"
+                        width="50"
+                        height="50"
+                    />
+                    <br />React
+                </td>
+                  <td align="center" style="border: none">
+                    <img
+                         src="https://skillicons.dev/icons?i=vue"
+                        alt="React"
+                        width="50"
+                        height="50"
+                    />
+                    <br />Vue
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                        src="https://techstack-generator.vercel.app/js-icon.svg"
+                        alt="JavaScript"
+                        width="50"
+                        height="50"
+                    />
+                    <br />JavaScript
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                        src="https://techstack-generator.vercel.app/ts-icon.svg"
+                        alt="TypeScript"
+                        width="50"
+                        height="50"
+                    />
+                    <br />TypeScript
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                       src="https://techstack-generator.vercel.app/java-icon.svg"
+                        width="50"
+                        height="50"
+                        alt="jAVA"
+                    />
+                    <br />Java
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                       src="https://skillicons.dev/icons?i=figma"
+                        width="50"
+                        height="50"
+                        alt="FIGMA"
+                    />
+                    <br />Figma
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                        src="https://skillicons.dev/icons?i=vite"
+                        width="50"
+                        height="50"
+                        alt="VITE"
+                    />
+                    <br />Vite
+                </td>
+                  <td align="center" style="border: none">
+                    <img
+                        src="https://techstack-generator.vercel.app/github-icon.svg"
+                        width="50"
+                        height="50"
+                        alt="GITHUB"
+                    />
+                    <br />GitHub
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                       src="https://techstack-generator.vercel.app/prettier-icon.svg"
+                        width="50"
+                        height="50"
+                        alt="GITHUB"
+                    />
+                    <br />Prettier
+                </td>
+                <td align="center" style="border: none">
+                    <img
+                      src="https://techstack-generator.vercel.app/eslint-icon.svg"
+                        width="50"
+                        height="50"
+                        alt="ESLINT"
+                    />
+                    <br />Eslint
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</div>
 
 <br>
 
-##  💬 Dúvidas? Entre em Contato ⬇️
+<div align="center">
+  <h2 align="center" style="display: inline-flex; align-items: baseline;">
+    💬 Gostou? Entre em contato! <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+  </h2>
+</div>
 
 <div>
     <br>
@@ -120,4 +225,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
 </picture>
-
