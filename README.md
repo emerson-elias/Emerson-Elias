@@ -4,17 +4,6 @@
 
 
 <div>
-    <img 
-      src="https://stats.hyo.dev/api/github-stats-advanced?login=emerson-elias" 
-      width="430"
-    />
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=emerson-elias&bg_color=26272d&color=ffffff&line=75e8f8&point=55548c&area=true&hide_border=false&radius=16&height=520" 
-      width="510"
-    />
-</div>
-
-<div>
   <img align="right" src="/.github/workflows/assets/codar.gif" alt="Hora de codar!" style="height: 200px;">
   <div>
     <p>🖥️ Desenvolvedor Web - React.js | Vue.js | JavaScript | Gsap | Node.js | Next.js</p>
@@ -26,6 +15,18 @@
 </div>
 
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img 
+      src="https://stats.hyo.dev/api/github-stats-advanced?login=emerson-elias" 
+      width="400"
+         height="200"
+    />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=emerson-elias&bg_color=26272d&color=ffffff&line=75e8f8&point=55548c&area=true&hide_border=false&radius=16&height=590" 
+      width="400"
+    />
+</div>
+
 
 <h1 align="center" style="border: none">
     <img
@@ -36,20 +37,20 @@
   Front-end Developer
 </h1>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap:20;">
   <a href="https://github.com/evirunurm/github-stats">
     <img 
-      src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm&peng=false" 
-      width="400"
-      height="400"
+      src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=emerson-elias&peng=false" 
+      width="350"
+      height="350"
       style="object-fit: contain;"
     />
   </a>
   <a href="https://github.com/evirunurm/github-stats">
     <img 
-      src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm" 
-      width="400"
-      height="400"
+      src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=emerson-elias" 
+      width="350"
+      height="350"
       style="object-fit: contain;"
     />
   </a>
@@ -161,33 +162,6 @@
                         alt="FIGMA"
                     />
                     <br />Figma
-                </td>
-                <td align="center" style="border: none">
-                    <img
-                        src="https://skillicons.dev/icons?i=vite"
-                        width="50"
-                        height="50"
-                        alt="VITE"
-                    />
-                    <br />Vite
-                </td>
-                  <td align="center" style="border: none">
-                    <img
-                        src="https://techstack-generator.vercel.app/github-icon.svg"
-                        width="50"
-                        height="50"
-                        alt="GITHUB"
-                    />
-                    <br />GitHub
-                </td>
-                <td align="center" style="border: none">
-                    <img
-                       src="https://techstack-generator.vercel.app/prettier-icon.svg"
-                        width="50"
-                        height="50"
-                        alt="GITHUB"
-                    />
-                    <br />Prettier
                 </td>
                 <td align="center" style="border: none">
                     <img
