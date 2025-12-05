@@ -3,7 +3,7 @@
 </h1>
 
 <div>
-  <img align="right" src="/.github/workflows/assets/online.gif" alt="Como se centraliza isso?" style="height: 200px;">
+  <img align="right" src="/.github/workflows/assets/codar.gif" alt="Hora de codar!" style="height: 200px;">
   <div>
     <p>🖥️ Desenvolvedor Web - React.js | Vue.js | JavaScript | Gsap | Node.js | Next.js</p>
     <p>🏢 Analista de Suporte - Com mais de 3 anos de experiência </p>
@@ -16,30 +16,97 @@
 #
 
 ## ⭐ GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=emerson-elias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emerson-elias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="160" alt="languages graph"  />
+
+[![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm)](https://github.com/evirunurm/github-stats) [![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=evirunurm&peng=false)](https://github.com/evirunurm/github-stats)
+  
+
+<a href="https://github.com/evirunurm/github-stats">
+  <img 
+    src="https://github-stats-evirunurm.vercel.app/api/languages.js?username=evirunurm" 
+    width="400"
+  />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emerson-elias&theme=dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro)](https://git.io/streak-stats)
+
+
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+<h3 align="center">Web Development</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://nextjs.org/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>Next.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://jquery.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+        </a>
+        <br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ## 🚀 Minhas Habilidades
 
-<div style="display: inline_block">
-    <img align="center" alt="Emerson-Elias-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Emerson-Elias-CSS" height="40" width="50"" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Emerson-Elias-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-    <img align="center" alt="Emerson-Elias-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Emerson-Elias-Vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" ">
-    <img align="center" alt="Emerson-Elias-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img align="center" alt="Emerson-Elias-boostrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
-    <img align="center" alt="Emerson-Elias-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
-    <img align="center" alt="Emerson-Elias-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-    <img align="center" alt="Emerson-Elias-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Emerson-Elias-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">       
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,react,vue,js,ts,java,figma,vite)](https://skillicons.dev)
 
 <br>
 
 ##  💬 Dúvidas? Entre em Contato ⬇️
+
 <div>
     <br>
   <a href="https://www.instagram.com/emersoneliass_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,8 +115,9 @@
     <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/emerson-elias/emerson-elias/output/pacman-contribution-graph.svg">
 </picture>
+
