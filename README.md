@@ -72,30 +72,46 @@
 
  <!-- Github Activities -->
 
-
- <div>
-
  ## 📈 Github Stats
- 
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emerson-elias&theme=github_dark"
-        width="99.5%"
-        />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emerson-elias&theme=github_dark"
-         width="49.5%"
-        />
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emerson-elias&theme=github_dark"
-           width="49.5%"
-         />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emerson-elias&theme=github_dark"
-          width="49.5%"
-        />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emerson-elias&theme=github_dark"
-          width="49.5%"
-        />
-</div>
 
-</div>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td colspan="2" width="66%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emerson-elias&theme=github_dark"
+        width="100%"
+      />
+    </td>
+    <td width="34%">
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emerson-elias&theme=github_dark"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%">
+      <img
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emerson-elias&theme=github_dark"
+        width="100%"
+      />
+    </td>
+    <td width="33%">
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emerson-elias&theme=github_dark"
+        width="100%"
+      />
+    </td>
+    <td width="34%">
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emerson-elias&theme=github_dark"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <picture>
