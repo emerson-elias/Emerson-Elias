@@ -10,7 +10,7 @@
     />
     <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=emerson-elias&bg_color=26272d&color=ffffff&line=75e8f8&point=55548c&area=true&hide_border=false&radius=16&height=520" 
-      width="575"
+      width="510"
     />
 </div>
 
@@ -206,18 +206,26 @@
 
 <br>
 
-<div align="center">
+
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
     💬 Gostou? Entre em contato! <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
   </h2>
-</div>
+
 
 <div>
     <br>
-  <a href="https://www.instagram.com/emersoneliass_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:emersonees808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/emerson-elias-9b2894228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-    <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/emerson-elias-9b2894228/" target="_blank">
+          <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      </a>
+  <a href="https://www.instagram.com/emersoneliass_/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:emersonees808@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+    <a href="https://outlook.live.com/mail/0/" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+    </a> 
 </div>
 
 <picture>
