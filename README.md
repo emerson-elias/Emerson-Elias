@@ -14,12 +14,13 @@
     />
     <div>
         <p>
-            🚀 Desenvolvedor Web focado em Frontend | React.js · Vue.js · Next.js · JavaScript ·
-            GSAP
+            🚀 Desenvolvedor Web focado em Frontend | React.js · Vue.js <br>
+            · Next.js · JavaScript · GSAP
         </p>
         <p>🏢 Analista de Suporte com mais de 3 anos de experiência</p>
         <p>
-            📌 Entusiasta de tecnologia, sempre em busca de evolução profissional e novos desafios
+            📌 Entusiasta de tecnologia, sempre em busca de evolução <br>
+            profissional e novos desafios
         </p>
         <p>
             🌟 Projeto principal:
@@ -27,6 +28,8 @@
         </p>
     </div>
 </div>
+
+<br>
 
 <h3>Contate-me</h3>
 
