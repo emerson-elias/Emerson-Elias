@@ -31,7 +31,14 @@
 
 <br>
 
-<h3>Contate-me</h3>
+<h3>
+    Contate-me
+    <img
+        src="./assets/crase.gif"
+        width="50px"
+        height="50px"
+    />
+</h3>
 
 <div>
     <a href="https://www.linkedin.com/in/emerson-elias-9b2894228/" target="_blank">
@@ -84,7 +91,9 @@
     <img src="https://skillicons.dev/icons?i=ts" width="50" />
     <img src="https://skillicons.dev/icons?i=java" width="50" />
     <img src="https://skillicons.dev/icons?i=vite" width="50" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
     <img src="https://skillicons.dev/icons?i=bootstrap" width="50" />
+    <img src="https://skillicons.dev/icons?i=php" width="50" />
 </div>
 
 <h3>🛠️ Ferramentas</h3>
@@ -101,6 +110,8 @@
     <img src="https://skillicons.dev/icons?i=windows" width="50" />
     <img src="https://skillicons.dev/icons?i=vercel" width="50" />
     <img src="https://skillicons.dev/icons?i=devto" width="50" />
+    <img src="https://skillicons.dev/icons?i=powershell" width="50" />
+    <img src="https://skillicons.dev/icons?i=svg" width="50" />
 </div>
 
 <br />
