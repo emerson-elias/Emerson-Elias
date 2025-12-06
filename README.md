@@ -167,8 +167,8 @@
    Pacman Commits 
     <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdnemx0NDcxejUzdXNyaDc1djM3a2V0cHo3YWIwbnBnamp4a2JwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ut9IfYd8U1C0CNQi76/giphy.gif"
-        width="50px"
-        height="50px"
+        width="40px"
+        height="40px"
     />
 </h2>
 
