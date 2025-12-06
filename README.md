@@ -4,6 +4,8 @@
     />
 </h1>
 
+<br>
+
 <div>
     <img
         align="right"
@@ -55,6 +57,8 @@
     </a>
 </div>
 
+<br>
+
 <h2 style="border: none">
     Front-end Developer
     <img
@@ -86,8 +90,8 @@
     <img src="https://skillicons.dev/icons?i=figma" width="50" />
     <img src="https://skillicons.dev/icons?i=git" width="50" />
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="50" />
-    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="50" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="55" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" />
     <img src="https://skillicons.dev/icons?i=notion" width="50" />
     <img src="https://skillicons.dev/icons?i=npm" width="50" />
     <img src="https://skillicons.dev/icons?i=vscode" width="50" />
@@ -98,7 +102,9 @@
 
 <br />
 
-## 📈 Github Stats
+## 📊 Github Stats
+
+<br>
 
 <table width="100%" align="center" cellpadding="0" cellspacing="0" border="0">
     <tr>
@@ -139,7 +145,9 @@
 
 <br />
 
-## 🎮 Pacman game
+## 🎮 Pacman commits
+
+<br>
 
 <picture>
     <source
