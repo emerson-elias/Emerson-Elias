@@ -29,12 +29,10 @@
     </div>
 </div>
 
-<br>
-
 <h3>
     Contate-me
     <img
-        src="./assets/crase.gif"
+        src="https://github.com/emerson-elias/Emerson-Elias/blob/main/.github/workflows/assets/crase.gif"
         width="50px"
         height="50px"
     />
@@ -69,7 +67,7 @@
 
 <br>
 
-<h2 style="border: none">
+<h2>
     Front-end Developer
     <img
         src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
@@ -87,6 +85,7 @@
     <img src="https://skillicons.dev/icons?i=react" width="50" />
     <img src="https://skillicons.dev/icons?i=vue" width="50" />
     <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
     <img src="https://skillicons.dev/icons?i=js" width="50" />
     <img src="https://skillicons.dev/icons?i=ts" width="50" />
     <img src="https://skillicons.dev/icons?i=java" width="50" />
@@ -112,6 +111,7 @@
     <img src="https://skillicons.dev/icons?i=devto" width="50" />
     <img src="https://skillicons.dev/icons?i=powershell" width="50" />
     <img src="https://skillicons.dev/icons?i=svg" width="50" />
+    <img src="https://skillicons.dev/icons?i=discord" width="50" />
 </div>
 
 <br />
@@ -157,9 +157,14 @@
     </tr>
 </table>
 
-<br />
-
-## 🎮 Pacman commits
+<h2>
+   🎮 Pacman commits
+    <img
+        src="https://github.com/emerson-elias/Emerson-Elias/blob/main/.github/workflows/assets/crase.gif"
+        width="50px"
+        height="50px"
+    />
+</h2>
 
 <br>
 
