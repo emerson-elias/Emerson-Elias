@@ -7,7 +7,7 @@
 <div>
     <img
         align="right"
-        src="https://stats.hyo.dev/api/github-stats-advanced?login=emerson-elias"
+        src="https://github.com/emerson-elias/Emerson-Elias/blob/main/.github/workflows/assets/codar.gif"
         width="400"
     />
     <div>
@@ -57,17 +57,34 @@
     />
 </h2>
 
+<h3>🚀 Tecnologias</h3>
+
 <div>
   <img src="https://skillicons.dev/icons?i=html" width="50"/>
   <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="50"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
   <img src="https://skillicons.dev/icons?i=vue" width="50"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50"/>
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="50"/>
+</div>
+
+<h3>🛠️ Ferramentas</h3>
+
+<div>
   <img src="https://skillicons.dev/icons?i=figma" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
   <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="50"/>
+  <img src="https://skillicons.dev/icons?i=npm" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=windows" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
 </div>
 
  <!-- Github Activities -->
