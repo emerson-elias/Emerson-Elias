@@ -15,7 +15,7 @@
     <div>
         <p>
             🚀 Desenvolvedor Web focado em Frontend | React.js · Vue.js <br>
-            · Next.js · JavaScript · GSAP
+                · Next.js · JavaScript · GSAP
         </p>
         <p>🏢 Analista de Suporte com mais de 3 anos de experiência</p>
         <p>
